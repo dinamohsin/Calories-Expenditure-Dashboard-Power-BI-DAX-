@@ -1,6 +1,7 @@
 # **Calories Expenditure Dashboard (Power BI & DAX)**
 
 This project analyzes **calorie expenditure** data using **Power BI** and **DAX**. The dataset comes from a Kaggle Playground Series competition and is designed to predict caloric energy expenditure based on biometric and activity-related features.
+<img width="1263" height="696" alt="image" src="https://github.com/user-attachments/assets/da7971fa-5704-491a-ab6f-d65fbbc772ac" />
 
 ---
 
@@ -124,9 +125,11 @@ The dashboard now features these visuals:
 * **Line Chart**: Heart Rate by Gender across Age Groups
 
   
-```
 
-```
+
+<img width="1493" height="708" alt="image" src="https://github.com/user-attachments/assets/4e0cc8de-8a75-4960-a99b-f0eeb1ccfff3" />
+
+
 
 ---
 
@@ -158,4 +161,4 @@ The dashboard now features these visuals:
 
 ## **8. Final Thoughts**
 
-This project showcases an end-to-end usage of **Power BI and DAX** to extract, transform, and visualize calorie expenditure data. The updated dashboard design—with gender-age group heart rate comparison—delivers more meaningful insight and improves interpretability.
+This project showcases an end-to-end usage of **Power BI and DAX** to extract, transform, and visualize calorie expenditure data.
